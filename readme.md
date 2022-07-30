@@ -1,4 +1,4 @@
 
-此工程主题为设计模式，旨在学习设计模式思想以及设计模式的实战🥰🥰
+The theme of this project is design pattern, which aims to learn the idea and the practice of design mode🥰🥰
 
 
