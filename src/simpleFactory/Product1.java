@@ -1,4 +1,4 @@
-package SimpleFactory;
+package simpleFactory;
 
 /**
  * 简单工厂模式
