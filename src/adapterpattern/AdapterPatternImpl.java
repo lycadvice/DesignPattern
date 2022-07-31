@@ -16,6 +16,6 @@ public class AdapterPatternImpl {
 
 class ImportedMachine {
     public void work() {
-        System.out.println("进口及其正常运行");
+        System.out.println("进口机器正常运行");
     }
 }
